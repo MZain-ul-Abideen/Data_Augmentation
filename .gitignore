@@ -11,6 +11,14 @@ exp_1/imgs/
 exp_1/outputs/
 exp_1/tables/
 
+# Generated archives
+*.zip
+
+# Generated models / weights
+*.keras
+*.h5
+*.pkl
+
 # ==========================
 # Images
 # ==========================

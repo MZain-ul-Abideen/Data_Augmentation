@@ -1,0 +1,11 @@
+{
+    "fall_id": 42,
+    "subject_id": 5,
+    "fall_number": 2,
+    "fall_timestamp": 1701271366,
+    "window_before_sec": 3,
+    "window_after_sec": 3,
+    "imu_rows": 375,
+    "ir_rows": 18,
+    "radar_rows": 50
+}
